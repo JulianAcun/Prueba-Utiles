@@ -1,3 +1,5 @@
 lapiz 
 borrador
 tijeras
+colores
+tajalapiz
